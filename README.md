@@ -2,8 +2,8 @@
 # Đồ án môn lập trình web và ứng dụng
 ### Tài khoản Admin
 
-- Username: hgbaodev
-- Password: 123456
+- Username: Phap-studio
+- Password: 0000
 ### Hình ảnh giao diện
 ![Alt text](./assets/img/screen.jpeg)
 <h4 align="center">Trang chủ</h4>
